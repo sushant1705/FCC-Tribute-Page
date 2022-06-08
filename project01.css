@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 1.5rem;
+}
+ul{
+    text-align: left;
+    line-height: 1.5cm;
+    font-size: smaller;
+}
+main{
+    background-color: wheat;
+}
+#img-caption{
+    font-style: italic;
+    text-decoration: underline;
+}
+html{
+
+    background-image: linear-gradient(to bottom , grey
+    , white);
+}
+#title{
+    background-color: rgba(110, 109, 109, 0.89);
+    font-size: larger;
+
+}
+img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
